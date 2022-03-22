@@ -13,9 +13,9 @@ Note: this requires an SD card reader
 1. Download and install Balena Etcher
 
 <button href="https://www.balena.io/etcher/">Balena Etcher Download</button>
-2. Download a .img file from above.
-3. Open balena etcher and follow the prompts to write the image to your SD card. Be sure to select your SD card and not another drive.
-4. Unscrew the back panel from the Wombat and replace the SD card.
+1. Download a .img file from above.
+2. Open balena etcher and follow the prompts to write the image to your SD card. Be sure to select your SD card and not another drive.
+3. Unscrew the back panel from the Wombat and replace the SD card.
 
 #### Linux/Mac/Unix:
 Note: Balena Etcher will also work with Linux/Mac/Unix.
