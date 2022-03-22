@@ -11,6 +11,7 @@
 Note: this requires an SD card reader
 #### Windows:
 1. Download and install Balena Etcher
+
 <button href="https://www.balena.io/etcher/">Balena Etcher Download</button>
 2. Download a .img file from above.
 3. Open balena etcher and follow the prompts to write the image to your SD card. Be sure to select your SD card and not another drive.
@@ -28,7 +29,8 @@ sudo fdisk -l
 sudo dd if="Wombat.img" of="/dev/sda" bs=4M status=progress
 ```
 Parameters:
-```
+
+<div style="border:1px">
 if=<input file>
 
 of=<output file>
@@ -36,6 +38,7 @@ of=<output file>
 bs=<block size> *optional
   
 staus=progress *optional //Adds a status indicator
-```
+  </div>
+  
 4. Unscrew the back panel of the Wombat and replace the SD card with the newly written one.
 Note: You can write to the SD card that was already in the Wombat, no need to buy a second SD card.
