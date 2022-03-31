@@ -33,7 +33,7 @@ sudo fdisk -l
 sudo dd if="Wombat.img" of="/dev/sda" bs=4M status=progress
 ```
 Parameters:
-
+<br>
 if -> input file
 
 of -> output file
