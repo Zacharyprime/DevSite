@@ -2,7 +2,7 @@
 ## Stable:
 <button href="https://www.dropbox.com/s/xmg0iyrar9tj626/Wombat-25.6.img?dl=0">Download 25.6</button>
 
-## In Testing
+## In Testing:
 <button href="https://www.dropbox.com/s/gdd12xgpzzbuiv9/Wombat-26.1.img?dl=0">Download 26.1</button>
 
 ## Experimental:
