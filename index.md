@@ -64,7 +64,8 @@ Note: You can write to the SD card that was already in the Wombat, no need to bu
 ## Other Resources:
 <button href="https://www.kipr.org/"> KIPR Website </button>
 <button href="https://github.com/kipr"> KIPR Github Organization </button>
-<button href="https://github.com/orgs/kipr/projects/3"> Software Version Schedule </button>
+<button href="https://github.com/kipr/Simulator"> KIPR Robotics Simulator </button> <br>
 <button href="https://github.com/kipr/KIPR-Development-Toolkit"> KIPR Development Toolkit </button>
+<button href="https://github.com/orgs/kipr/projects/3"> Software Version Schedule </button>
 <button href="https://github.com/kipr/KIPR-Development-Toolkit/blob/master/Docs/WombatDevManual.pdf"> Wombat Developer Manual </button>
-<button href="https://github.com/kipr/Simulator"> KIPR Robotics Simulator </button>
+
