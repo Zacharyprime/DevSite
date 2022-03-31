@@ -62,7 +62,7 @@ status -> Adds a status indicator *optional
 Note: You can write to the SD card that was already in the Wombat, no need to buy a second SD card.
 
 ## Other Resources:
-<button href="https://www.kipr.org/"> KIPR Website </buton>
+<button href="https://www.kipr.org/"> KIPR Website </button>
 <button href="https://github.com/kipr"> KIPR Github Organization </button>
 <button href="https://github.com/orgs/kipr/projects/3"> Software Version Schedule </button>
 <button href="https://github.com/kipr/KIPR-Development-Toolkit"> KIPR Development Toolkit </button>
