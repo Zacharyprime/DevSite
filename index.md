@@ -60,3 +60,10 @@ status -> Adds a status indicator *optional
   
 4) Unscrew the back panel of the Wombat and replace the SD card with the newly written one.
 Note: You can write to the SD card that was already in the Wombat, no need to buy a second SD card.
+
+## Other Resources:
+<button href="https://github.com/kipr"> KIPR Github Organization </button>
+<button href="https://github.com/orgs/kipr/projects/3"> Software Version Schedule </button>
+<button href="https://github.com/kipr/KIPR-Development-Toolkit"> KIPR Development Toolkit </button>
+<button href="https://github.com/kipr/KIPR-Development-Toolkit/blob/master/Docs/WombatDevManual.pdf"> Wombat Developer Manual </button>
+<button href="https://github.com/kipr/Simulator"> KIPR Robotics Simulator </button>
