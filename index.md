@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # KIPR Wombat Images
 ## Stable:
 <button href="https://www.dropbox.com/s/xmg0iyrar9tj626/Wombat-25.6.img?dl=0">Download 25.6</button>
@@ -43,6 +47,7 @@ sudo dd if="Wombat.img" of="/dev/sda" bs=4M status=progress
 ```
 Parameters:
 <br>
+
 if -> input file
 
 of -> output file
