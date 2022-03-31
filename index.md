@@ -13,7 +13,7 @@
 
 # KIPR Wallaby Images
 ## Stable:
-<button href="https://www.dropbox.com/s/xmg0iyrar9tj626/Wombat-25.6.img?dl=0">Download 25.6</button>
+<button href="https://www.dropbox.com/s/s6cnurla9fl9g29/Wallaby.img?dl=0">Download Wallaby Image (v24)</button>
 
 <hr>
 <hr>
