@@ -33,13 +33,14 @@ sudo fdisk -l
 sudo dd if="Wombat.img" of="/dev/sda" bs=4M status=progress
 ```
 Parameters:
-if=input file
 
-of=output file
+if -> input file
+
+of -> output file
   
-bs=block size *optional
+bs -> block size *optional
   
-staus=progress *optional //Adds a status indicator
+status -> Adds a status indicator *optional 
   
 4. Unscrew the back panel of the Wombat and replace the SD card with the newly written one.
 Note: You can write to the SD card that was already in the Wombat, no need to buy a second SD card.
