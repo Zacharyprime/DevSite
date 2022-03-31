@@ -11,6 +11,13 @@
 
 <hr>
 
+# KIPR Wallaby Images
+## Stable:
+<button href="https://www.dropbox.com/s/xmg0iyrar9tj626/Wombat-25.6.img?dl=0">Download 25.6</button>
+
+<hr>
+<hr>
+
 # Install Instructions:
 Note: this requires an SD card reader
 #### Windows:
@@ -20,6 +27,8 @@ Note: this requires an SD card reader
 1. Download a .img file from above.
 2. Open balena etcher and follow the prompts to write the image to your SD card. Be sure to select your SD card and not another drive.
 3. Unscrew the back panel from the Wombat and replace the SD card.
+
+<hr>
 
 #### Linux/Mac/Unix:
 Note: Balena Etcher will also work with Linux/Mac/Unix.
