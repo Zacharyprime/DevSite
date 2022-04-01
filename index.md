@@ -4,19 +4,19 @@ layout: default
 
 # KIPR Wombat Images
 #### Stable:
-<button href="https://www.dropbox.com/s/xmg0iyrar9tj626/Wombat-25.6.img?dl=0">Download 25.6</button>
+<a href="https://www.dropbox.com/s/xmg0iyrar9tj626/Wombat-25.6.img?dl=0"><button>Download 25.6</button></a>
 
 #### In Testing:
-<button href="https://www.dropbox.com/s/gdd12xgpzzbuiv9/Wombat-26.1.img?dl=0">Download 26.1</button>
+<a href="https://www.dropbox.com/s/gdd12xgpzzbuiv9/Wombat-26.1.img?dl=0"><button>Download 26.1</button></a>
 
 #### Experimental:
-<button href="https://www.raspberrypi.com/software/operating-systems">Bare pi OS Download</button>
-<button href="https://gist.github.com/Zacharyprime/c9d7918eccbbffd7f710ea69f464dd4d">Build Instructions</button>
+<a href="https://www.raspberrypi.com/software/operating-systems"><button>Bare pi OS Download</button></a>
+<a href="https://gist.github.com/Zacharyprime/c9d7918eccbbffd7f710ea69f464dd4d"><button>Build Instructions</button></a>
 
 
 # KIPR Wallaby Images
 #### Stable:
-<button href="https://www.dropbox.com/s/s6cnurla9fl9g29/Wallaby.img?dl=0">Download Wallaby Image (v24)</button>
+<a href="https://www.dropbox.com/s/s6cnurla9fl9g29/Wallaby.img?dl=0"><button>Download Wallaby Image (v24)</button></a>
 
 
 # Install Instructions:
@@ -24,7 +24,7 @@ Note: this requires an SD card reader
 #### Windows:
 1) Download and install Balena Etcher
 
-<button href="https://www.balena.io/etcher/">Balena Etcher Download</button>
+<a href="https://www.balena.io/etcher/"><button>Balena Etcher Download</button></a>
 
 2) Download a .img file from above.
 
@@ -63,10 +63,10 @@ status -> Adds a status indicator *optional
 Note: You can write to the SD card that was already in the Wombat, no need to buy a second SD card.
 
 ## Other Resources:
-<button href="https://www.kipr.org/"> KIPR Website </button>
-<button href="https://github.com/kipr"> KIPR Github Organization </button>
-<button href="https://github.com/kipr/Simulator"> KIPR Robotics Simulator </button> <br>
-<button href="https://github.com/kipr/KIPR-Development-Toolkit"> KIPR Development Toolkit </button>
-<button href="https://github.com/orgs/kipr/projects/3"> Software Version Schedule </button>
-<button href="https://github.com/kipr/KIPR-Development-Toolkit/blob/master/Docs/WombatDevManual.pdf"> Wombat Developer Manual </button>
+<a href="https://www.kipr.org/"><button> KIPR Website </button></a>
+<a href="https://github.com/kipr"><button> KIPR Github Organization </button></a>
+<a href="https://github.com/kipr/Simulator"><button> KIPR Robotics Simulator </button></a> <br>
+<a href="https://github.com/kipr/KIPR-Development-Toolkit"><button> KIPR Development Toolkit </button></a>
+<a href="https://github.com/orgs/kipr/projects/3"><button> Software Version Schedule </button></a>
+<a href="https://github.com/kipr/KIPR-Development-Toolkit/blob/master/Docs/WombatDevManual.pdf"><button> Wombat Developer Manual </button></a>
 
