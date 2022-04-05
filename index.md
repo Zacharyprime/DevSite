@@ -44,9 +44,9 @@ Note: Balena Etcher will also work with Linux/Mac/Unix.
 ```sh
 sudo fdisk -l
 ```
-3) Use dd to write the image to the SD card
+3) Use dd to write the image to the SD card (make sure the drive letter is correct, sdc is an example)
 ```sh
-sudo dd if="Wombat.img" of="/dev/sda" bs=4M status=progress
+sudo dd if="Wombat.img" of="/dev/sdc" bs=4M status=progress
 ```
 Parameters:
 <br>
